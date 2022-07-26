@@ -19,7 +19,6 @@ Imports:
     tibble,
     withr
 Suggests: 
-    conflicted,
     knitr,
     rmarkdown,
     roxygen2,
