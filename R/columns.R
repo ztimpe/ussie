@@ -49,5 +49,3 @@ cols_seasons_accumulate <- function() {
   c("matches", "wins", "draws", "losses", "points",
     "goals_for", "goals_against")
 }
-
-

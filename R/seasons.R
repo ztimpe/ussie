@@ -113,8 +113,6 @@ uss_make_seasons_final <- function(data_teams_matches,
 
   result
 }
-
-
 # internal function to arrange season-final standings
 arrange_final <- function(data) {
 
